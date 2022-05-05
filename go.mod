@@ -73,7 +73,7 @@ require (
 	github.com/spf13/cast v1.4.1
 	github.com/stretchr/testify v1.7.1
 	go.etcd.io/bbolt v1.3.6
-	go.etcd.io/etcd/client/v2 v2.305.2
+	go.etcd.io/etcd/client/v2 v2.305.4
 	go.opentelemetry.io/collector v0.50.0
 	go.opentelemetry.io/otel/trace v1.6.3
 	go.uber.org/multierr v1.8.0
